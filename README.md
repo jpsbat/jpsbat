@@ -48,7 +48,7 @@
 ## 🌐 &nbsp;Conecte-se comigo | Connect with me
 
 <div align="center">
-  <a href="https://https://joaopedrobatistadev.vercel.app/" target="_blank">
+  <a href="https://joaopedrobatistadev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Meu%20Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank">
   </a>
   <a href="https://instagram.com/jpsbat" target="_blank">
@@ -57,8 +57,8 @@
   <a href="mailto:jpsbat56@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://github.com/jpsbat">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <a href="https://github.com/jpsbat?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositórios-272727?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/joaopsbatista" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
