@@ -6,9 +6,9 @@
 
 ## 🌎 &nbsp;Sobre mim | About me
 
-💻 Desenvolvedor Full Stack apaixonado por aprender e criar soluções inovadoras  
+💻 Desenvolvedor Full Stack apaixonado por aprender e criar soluções  
 🌱 Constantemente aprendendo e evoluindo minhas habilidades técnicas  
-🔭 Buscando colaborar em projetos de código aberto
+🔭 Buscando colaborar para o mundo da computação
 
 ## 📊 &nbsp;GitHub Analytics
 
