@@ -49,7 +49,7 @@
 
 <div align="center">
   <a href="https://joaopedrobatistadev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Meu%20Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Meu%20Portfólio-7BB4E3?style=for-the-badge&logo=vercel&logoColor=white" target="_blank">
   </a>
   <a href="https://instagram.com/jpsbat" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
