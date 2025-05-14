@@ -48,7 +48,7 @@
 ## 🌐 &nbsp;Conecte-se comigo | Connect with me
 
 <div align="center">
-  <a href="https://joaopedrobatistadev.vercel.app/" target="_blank">
+  <a href="https://joaopedrobatistadev.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Meu%20Portfólio-006DB2?style=for-the-badge&logo=vercel&logoColor=white" target="_blank">
   </a>
   <a href="https://instagram.com/jpsbat" target="_blank">
