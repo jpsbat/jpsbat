@@ -79,7 +79,7 @@ const joaoPedro = {
 <div align="center">
   
   <br>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,html,css,git,linux,docker,mongodb,postgres,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,html,css,git,linux,docker,mongodb,vscode&theme=dark" />
   
 </div>
 
