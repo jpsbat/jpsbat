@@ -67,7 +67,6 @@ const joaoPedro = {
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -91,16 +90,6 @@ const joaoPedro = {
 <div align="center">
   
   <img src="https://github-profile-trophy.vercel.app/?username=jpsbat&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-  
-</div>
-
----
-
-## 📈 **Atividade & Estatísticas** | **Activity & Stats**
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpsbat&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
   
 </div>
 
