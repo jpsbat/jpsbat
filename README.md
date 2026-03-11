@@ -163,18 +163,6 @@ Docker
 
 ---
 
-```js
-while (alive) {
-  learn()
-  build()
-  improve()
-}
-```
-
-> Software é ferramenta para resolver problemas reais.
-
----
-
 <div align="center">
 
 Obrigado pela visita! | Thanks for your visit!
