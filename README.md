@@ -8,7 +8,7 @@
 
 ---
 
-# 🎯 Sobre Mim
+# 🎯 Sobre Mim | About Me
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -34,7 +34,7 @@ const joaoPedro = {
 
   currentlyBuilding: [
     "Hub Flow (plataforma de gestão ministerial)",
-    "Tabify AI (gerador de tablatura com IA)"
+    "LJ Cookies (plataforma de gestão de vendas)"
   ],
 
   motto: "Build useful things."
@@ -48,7 +48,7 @@ const joaoPedro = {
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🚀 Projetos em Destaque | Featured projects
 
 ### Hub Flow
 
@@ -118,36 +118,32 @@ Docker
 
 # 🛠 Tech Stack
 
-### Frontend
+### **Frontend**
 
-* Vue
-* React
-* TypeScript
-* HTML
-* CSS
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
+### **Backend**
 
-* Node.js
-* Express
-* Python
-* REST APIs
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-### Databases
+### **Database**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-* MySQL
-* MongoDB
-* Apache Cassandra
-
-### DevOps
-
-* Docker
-* Git
-* Linux
+### **DevOps & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-# 🌐 Conecte-se Comigo
+# 🌐 Conecte-se Comigo | Connect with me
 
 <div align="center">
 
@@ -167,8 +163,6 @@ Docker
 
 ---
 
-# 💭 Filosofia
-
 ```js
 while (alive) {
   learn()
@@ -183,7 +177,7 @@ while (alive) {
 
 <div align="center">
 
-Obrigado pela visita 🚀
+Obrigado pela visita! | Thanks for your visit!
 
 </div>
 
