@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=header&text=Full%20Stack%20Developer&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Vue%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20TypeScript&descAlignY=60&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=🚀+Full+Stack+Developer;⚡+Vue+%7C+React+%7C+Next+%7C+Node;🧠+SaaS+%7C+PWA+%7C+Arquitetura+Web;🌟+Transformando+Ideias+em+Produtos" />
+
 
 </div>
 
@@ -99,7 +99,6 @@ Vue · Node.js · MySQL · PWA · Docker
 <div align="center">
 
 <img height="180em" src="https://streak-stats.demolab.com?user=jpsbat&theme=radical&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsbat&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
 </div>
 
