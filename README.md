@@ -15,7 +15,7 @@
 ```ts
 const joaoPedro = {
   role: "Full Stack Developer",
-  experience: "1.5+ years",
+  experience: "2 years",
 
   stack: {
     frontend: ["Vue", "React", "Next.js", "TypeScript", "Tailwind CSS"],
